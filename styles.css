@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+:root {
+  background-color: #f59e0b;
+}
+.input-appearance {
+  padding: 1rem;
+  width: 80%;
+}
+
+.output {
+  padding-top: 1rem;
+  font-size: larger;
+}
+
+.flag-appearance {
+  padding: 3rem;
+  font-size: larger;
+}
+
+.header {
+  padding: 2rem;
+}
